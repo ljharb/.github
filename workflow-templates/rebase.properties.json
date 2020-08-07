@@ -1,0 +1,9 @@
+{
+	"name": "Automatic Rebase Workflow",
+	"description": "Automatically rebases PRs",
+	"iconName": "automatic-rebase-icon",
+	"categories": [
+	],
+	"filePatterns": [
+	]
+}
