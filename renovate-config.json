@@ -1,0 +1,8 @@
+{
+	"assigneesFromCodeOwners": true,
+	"commitMessagePrefix": "[Deps] Update ",
+	"commitMessageTopic": "`{{depName}}`",
+	"dependencyDashboardApproval": true,
+	"description": "Shared renovate config for @ljharb",
+	"rangeStrategy": "update-lockfile"
+}
