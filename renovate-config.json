@@ -1,4 +1,13 @@
 {
+	"extends": [
+		":ignoreModulesAndTests",
+		":prNotPending",
+		":prHourlyLimit2",
+		":prConcurrentLimit10",
+		":automergeDisabled",
+		":widenPeerDependencies",
+		"group:allNonMajor"
+	],
 	"assigneesFromCodeOwners": true,
 	"commitMessagePrefix": "[Deps] Update ",
 	"commitMessageTopic": "`{{depName}}`",
