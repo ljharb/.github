@@ -8,6 +8,9 @@
 		":widenPeerDependencies",
 		"group:allNonMajor"
 	],
+	"vulnerabilityAlerts": {
+		"dependencyDashboardApproval": true
+	},
 	"assigneesFromCodeOwners": true,
 	"commitMessagePrefix": "[Deps] Update ",
 	"commitMessageTopic": "`{{depName}}`",
