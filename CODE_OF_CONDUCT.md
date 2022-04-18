@@ -1,6 +1,6 @@
 # Code of Conduct
 
-Projects under https://github.com/ljharb use [Contributor Covenant v2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) as their code of conduct. The full text is included [below](#contributor-covenant-code-of-conduct) in English, and [translations](https://www.contributor-covenant.org/translations) are available on the Contributor Covenant website.
+Projects under https://github.com/ljharb use [Contributor Covenant v2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) as their code of conduct. The full text is included [below](#contributor-covenant-code-of-conduct-v21) in English, and [translations](https://www.contributor-covenant.org/translations) are available on the Contributor Covenant website.
 
 ## Commitment
 
