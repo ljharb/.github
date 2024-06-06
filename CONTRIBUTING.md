@@ -75,7 +75,7 @@ git fetch upstream
 git rebase upstream/main
 ```
 
-Verify your changes
+Verify your changes. Tests that fail without your changes *must* be added.
 
 ```
 npm test
