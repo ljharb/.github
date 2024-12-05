@@ -1,0 +1,51 @@
+{
+	"version": "v1.0.0",
+
+    "entity": {
+        "type": "individual",
+        "role": "owner",
+        "name": "Jordan Harband",
+        "email": "ljharb@gmail.com",
+        "phone": "",
+        "description": "An open source maintainer",
+        "webpageUrl": {
+            "url": "https://github.com/ljharb"
+        }
+    },
+
+    "projects": [{
+        "guid": "npm-resolve",
+        "name": "resolve",
+        "description": "Implements the node.js require.resolve() algorithm",
+        "webpageUrl": {
+            "url": "https://github.com/browserify/resolve",
+            "wellKnown": "https://github.com/browserify/resolve/blob/HEAD/.github/.well-known/funding-manifest-urls"
+        },
+        "repositoryUrl": {
+            "url": "https://github.com/browserify/resolve",
+            "wellKnown": "https://github.com/browserify/resolve/blob/HEAD/.github/.well-known/funding-manifest-urls"
+        },
+        "licenses": ["MIT"],
+        "tags": ["resolve", "require", "module", "node", "import"]
+    }],
+
+    "funding": {
+        "channels": [{
+            "guid": "github-sponsors",
+            "type": "other",
+            "address": "",
+            "description": "https://github.com/sponsors/ljharb"
+        }],
+
+        "plans": [{
+            "guid": "catch-all",
+            "status": "active",
+            "name": "patronage",
+            "description": "Catch-all plan for any funding",
+            "amount": 0,
+            "currency": "USD",
+            "frequency": "other",
+            "channels": ["github-sponsors"]
+        }]
+    }
+}
